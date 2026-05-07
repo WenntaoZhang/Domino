@@ -55,7 +55,7 @@ The `RealData/` directory contains scripts to reproduce the three real-world app
 ## 📖 References
 
 * **Paper**: [Generalized Boundary FDR Control under Arbitrary Dependence: An Approach on Closure Principle] (pdf available soon)
-* **Supplementary**: See algorithms described in `utiles/` for technical details.
+* **Supplementary**: See algorithms described in `utils/` for technical details.
 
 ## 📝 License
 
